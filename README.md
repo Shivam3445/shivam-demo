@@ -1,5 +1,6 @@
 # shivam-demo
 for learning git
 <br>
-Author - Shivam Chauhan
+Author - Shivam Chauhan (gl bajaj)
+
 
